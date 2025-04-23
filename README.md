@@ -19,7 +19,7 @@ Task Master Pro is a task management application built using Java. It provides a
 
 - Create, update, and delete tasks
 - Mark tasks as complete or incomplete
-- User authentication and authorization
+- User authentication and authorization has to be done
 
 ## Installation
 
